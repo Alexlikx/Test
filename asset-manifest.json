@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nicolas-mauer/static/css/main.38afecc6.css",
+    "main.js": "/nicolas-mauer/static/js/main.628de15e.js",
+    "static/media/scheme.svg": "/nicolas-mauer/static/media/scheme.e7171fe978648940627d3cf61dae0fe1.svg",
+    "static/media/map.svg": "/nicolas-mauer/static/media/map.51477c60222cb056547093dbda5a57b3.svg",
+    "static/media/optimizatoin.svg": "/nicolas-mauer/static/media/optimizatoin.1a38bf9c41cf75854a81d0ba7cb64d63.svg",
+    "static/media/audit.svg": "/nicolas-mauer/static/media/audit.107603d2bf61c1a50525f80289e2d523.svg",
+    "static/media/icon.svg": "/nicolas-mauer/static/media/icon.8612339773aa549be4bc9cee7f149df9.svg",
+    "static/media/iconn5.svg": "/nicolas-mauer/static/media/iconn5.debb7ee1ee873c52ed6d38292843d623.svg",
+    "static/media/trending.svg": "/nicolas-mauer/static/media/trending.7116c2eb13321a56d11e4058d88fc662.svg",
+    "static/media/cafe.svg": "/nicolas-mauer/static/media/cafe.a0aff10d7071fc1bb0e87fa438bd514b.svg",
+    "index.html": "/nicolas-mauer/index.html",
+    "static/media/icon3.svg": "/nicolas-mauer/static/media/icon3.5da9f49e54c81c6e351973245dfd5371.svg",
+    "static/media/icon2.svg": "/nicolas-mauer/static/media/icon2.75768dbece740cffa1580e278d075b12.svg",
+    "main.38afecc6.css.map": "/nicolas-mauer/static/css/main.38afecc6.css.map",
+    "main.628de15e.js.map": "/nicolas-mauer/static/js/main.628de15e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38afecc6.css",
+    "static/js/main.628de15e.js"
+  ]
+}
